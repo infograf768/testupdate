@@ -5,8 +5,8 @@
     <description>French Translation of com_localise</description>
     <element>fr-FRcom_localisefr-FR</element>
     <type>file</type>
-    <client>0</client>
     <version>3.0.2</version>
+    <client>0</client>
     <downloads>
       <downloadurl type="full" format="zip"https://github.com/infograf768/testupdate/releases/download/test1/fr-FRcom_localise_fr-FR_3.0v2.zip</downloadurl>
     </downloads>
