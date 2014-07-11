@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extensionset name="localise github language" description="localise github language updates">
-  <extension name="fr-FRcom_localisefr-FR" element="fr-FRcom_localisefr-FR" type="file" version="3.0.2" detailsurl="https://raw.githubusercontent.com/infograf768/testupdate/master/fr-fr_update.xml"/>
+	<extension name="fr-FRcom_localisefr-FR" element="fr-FRcom_localisefr-FR" type="file" version="3.0.2" detailsurl="https://raw.githubusercontent.com/infograf768/testupdate/master/fr-fr_update.xml"/>
 </extensionset>
